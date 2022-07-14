@@ -3,7 +3,7 @@
 ## Requirements
 ```
 - Python 3.8.0
-- 7zip
+- 7zip (Included in Installation)
 ```
 ## Installation
 
