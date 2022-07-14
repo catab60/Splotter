@@ -6,7 +6,6 @@
 ```
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install.
 ```
 - Unzip
 - Run 7z installer
